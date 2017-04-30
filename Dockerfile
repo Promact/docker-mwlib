@@ -1,4 +1,4 @@
-FROM python:2
+FROM python:2.7.10
 ENV DEBIAN_FRONTEND noninteractive
 ENV HOME            /root
 ENV LC_ALL          C.UTF-8
